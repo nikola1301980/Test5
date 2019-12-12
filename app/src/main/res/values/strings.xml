@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test5</string>
+    <string name="activitymain">ActivityMain</string>
+    <string name="welcome">Welcome</string>
+</resources>
